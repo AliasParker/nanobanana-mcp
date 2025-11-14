@@ -4,7 +4,7 @@
       "command": "node",
       "args": ["/Users/roy/Documents/Development/nanobanana-mcp/dist/index.js"],
       "env": {
-        "GOOGLE_AI_API_KEY": "AIzaSyDb4oHheRzqgFAd9qpbeXxAWM4CRUXE2QM"
+        "GOOGLE_AI_API_KEY": ""
       }
     }
   }
